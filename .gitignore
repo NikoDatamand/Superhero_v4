@@ -1,7 +1,7 @@
 HELP.md
 target/
-.mvn
-.cmd
+*.mvn
+*.cmd
 !**/src/main/**/target/
 !**/src/test/**/target/
 
