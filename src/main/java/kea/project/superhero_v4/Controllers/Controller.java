@@ -27,7 +27,6 @@ public class Controller {
         //superheroDatabase = (Repository_DB) context.getBean(impl);
     }
 
-    /*
     private Service superheroService;
 
     public Controller(Service superheroService) {
@@ -95,5 +94,5 @@ public class Controller {
                         "</h1></body></html>"
                 ,responseHeaders, HttpStatus.OK);
     }
-     */
+     
     }
